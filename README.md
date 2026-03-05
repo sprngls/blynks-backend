@@ -25,7 +25,7 @@ Dieses Repository enthält das **Server-Backend**, das später unter anderem fol
 Weitere Informationen zum Projekt und zur öffentlichen Website findet ihr im Website-Repository:
 
 ➡️ **Website Repository:**
-https://github.com/blynks/blynks
+https://github.com/blynks
 
 ---
 
