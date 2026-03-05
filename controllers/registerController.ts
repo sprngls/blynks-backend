@@ -21,4 +21,4 @@ export const registerUser = (req: Request<{}, {}, RegisterBody>, res: Response) 
     db.prepare("INSERT INTO users (username, password, email, token) VALUES (?, ?, ?, ?)").run(username, password, email, token);
 
     res.send("test")
-    };
+};
