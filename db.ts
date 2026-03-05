@@ -14,12 +14,3 @@ export function createDBs() {
     `).run();
 
 }
-
-export function addUser(username: string, password: string, email?: string) {
-    const token = Math.floor(Math.random() * 9999999999) + 1000000000;
-    accounts.prepare(`
-        INSERT INTO users (token, username, password, email)
-        VALUES (?, ?, ?, ?)
-    `).run(token, username, password, email);
-    return token;
-}
