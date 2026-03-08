@@ -30,11 +30,12 @@ Dieses Repository bildet aktuell nur die **Grundlage für die Backend-Architektu
 
 Das aktuelle Kernteam des Projekts:
 
-| Name            | Rolle                   |
-| --------------- | ----------------------- |
-| Lenodro         | Project Lead            |
-| Jojosstudio     | CSO & Frontend Dev      |
-| SPRNGLS         | CTO & Backend Dev       |
+| Name                  | Rolle                         |
+| ----------------------|------------------------ |
+| Leon Matyba           | Project Lead            |
+| Julien Sperling       | CSO & Frontend Dev      |
+| Luis Schulze          | CTO & Backend Dev       |
+| Neel Hoffmann         | Frontend Dev            |
 
 *(Weitere Teammitglieder werden ergänzt, sobald das Projekt wächst.)*
 
