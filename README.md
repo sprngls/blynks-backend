@@ -14,16 +14,6 @@ Blynks ist ein Open-Source-Messaging-Ökosystem mit folgenden Zielen:
 * **Erweiterbar**
 * **Modern und leichtgewichtig**
 
-Dieses Repository enthält das **Server-Backend**, das später unter anderem folgende Aufgaben übernehmen wird:
-
-* Authentifizierung und Nutzerverwaltung
-* Messaging-Infrastruktur
-* APIs für Clients
-* Echtzeit-Kommunikation
-* Datenbank-Management
-
-Weitere Informationen zum Projekt und zur öffentlichen Website findet ihr im Website-Repository:
-
 ➡️ **Website Repository:**
 https://github.com/jojosstudio/blynks
 
@@ -35,42 +25,6 @@ https://github.com/jojosstudio/blynks
 
 Dieses Repository bildet aktuell nur die **Grundlage für die Backend-Architektur**. In den nächsten Wochen und Monaten wird die Infrastruktur schrittweise aufgebaut.
 
-Derzeit ist zu erwarten:
-
-* Unvollständige Features
-* Häufige Änderungen
-* Fehlende Dokumentation
-* Experimentelle Implementierungen
-
-Ideen, Feedback und Beiträge sind willkommen.
-
----
-
-## Geplante Features
-
-Langfristig soll das Backend unter anderem unterstützen:
-
-* Benutzerkonten & Authentifizierung
-* Echtzeit-Nachrichtenübertragung
-* Gruppenchats
-* Medienversand
-* Skalierbare Serverarchitektur
-
----
-
-## Mitwirken (Contributing)
-
-Beiträge sind willkommen. Da sich das Projekt noch am Anfang befindet, sind insbesondere hilfreich:
-
-* Diskussionen zur Architektur
-* Backend-Implementierungen
-* Dokumentation
-* Infrastruktur / DevOps
-* Bug Reports und Verbesserungsvorschläge
-
-Bei größeren Änderungen bitte zuerst ein Issue eröffnen.
-
----
 
 ## Team
 
